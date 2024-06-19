@@ -1,0 +1,55 @@
+h1{text-align: center;
+    background-color: bisque;
+    font-style: oblique;
+    color: rgb(2, 10, 85);
+    border-style: dotted;
+    border-color: black;
+    border-radius: 40px;
+
+}
+
+body{
+    background-color: lightsteelblue;
+    background-image: url(https://marketplace.canva.com/EAGFR9uHGWI/1/0/900w/canva-soft-green-floral-wallpaper-background-your-story-SB6vFuBS6x0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+p{
+    border: 50px ;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4ItnHpJivB6Xyu0_DQnY43uFV1cNKc7TaA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 40px 60px;
+
+}
+
+table,th,td{
+    border: 3px solid black;
+    width: 30%;
+    text-align: center;
+}
+
+img{
+    height: 200px;
+    width: 400px;
+
+ }
+ ul{
+    list-style-type: square;
+    
+ }
+
+ ol{
+    list-style-type: lower-alpha;
+ }
+ #head1{
+    color: teal;
+ }
+
+ .class1{
+    text-align: center;
+    color: rgb(119, 5, 5);
+ }
